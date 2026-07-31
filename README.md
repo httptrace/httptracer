@@ -1,7 +1,7 @@
 # HttpTracer App:
 HttpTracer application to trace http traffic
 
-Visit: https://httptracer.com
+Visit: https://httptracer.pages.dev
 
 ### Screenshots:
 <img width="3200" height="1852" alt="image" src="https://github.com/user-attachments/assets/29960ae4-576a-449d-8c4d-2ad80c01e87f" />
